@@ -27,7 +27,7 @@ img{
 
 
 .container{
-    width: 100%;
+    max-width: 100%;
     margin: 0 auto;
    
 }
@@ -191,7 +191,7 @@ li{
  
 
  form{
-    margin-left: 25em;
+    margin-left: 19em;
  }
 
 
